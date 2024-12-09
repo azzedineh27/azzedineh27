@@ -7,3 +7,6 @@ Vous pourrez retrouver les projets que j'ai réalisé durant mon cursus universi
 Si vous voulez me contacter n'hésitez pas, vous retrouverez mes coordonnées ci-dessous. 
 
 Sur ce, bonne découverte ! 
+
+Mail : azzedinehatem@gmail.com 
+Téléphone : 0749082057
