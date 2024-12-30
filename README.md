@@ -1,12 +1,12 @@
-Bonjour à tous vous qui venez découvrir mes projets et le travail que j'ai réalisé ! 
+Hello to all of you who come to discover my projects and the work I have done!
 
-Je suis Azzedine Hatem, un étudiant en BUT Informatique qui s'intéresse au développement web ou full-stack et également d'intelligence artificielle dernièrement.
+I am Azzedine Hatem, a student in Computer science who is interested in full-stack development and also artificial intelligence lately.
 
-Vous pourrez retrouver les projets que j'ai réalisé durant mon cursus universitaire mais aussi ceux que je fais en parralèle de mes études. 
+You can find the projects that I have carried out during my university studies but also those that I do in parallel with my studies.
 
-Si vous voulez me contacter n'hésitez pas, vous retrouverez mes coordonnées ci-dessous. 
+If you want to contact me do not hesitate, you will find my contact details below.
 
-Sur ce, bonne découverte ! 
+On that note, good discovery!
 
 Mail : azzedinehatem@gmail.com 
-Téléphone : 0749082057
+Phone number : 0749082057
