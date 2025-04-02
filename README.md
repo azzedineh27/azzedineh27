@@ -1,12 +1,18 @@
-Hello to all of you who come to discover my projects and the work I have done!
+👋 Bienvenue sur mon GitHub !
+Salut à toutes et à tous !
+Je suis Azzedine Hatem, étudiant en informatique, passionné par le développement full-stack et de plus en plus curieux du monde de l'intelligence artificielle.
 
-I am Azzedine Hatem, a student in Computer science who is interested in full-stack development and also artificial intelligence lately.
+Sur ce profil, tu trouveras :
 
-You can find the projects that I have carried out during my university studies but also those that I do in parallel with my studies.
+💻 Des projets réalisés dans le cadre de mes études universitaires
 
-If you want to contact me do not hesitate, you will find my contact details below.
+🚀 Des projets personnels que je développe par passion, en parallèle de mon cursus
 
-On that note, good discovery!
+Je suis toujours ouvert aux échanges, collaborations ou simplement à discuter autour de la tech !
+📫 Me contacter :
 
-Mail : azzedinehatem@gmail.com 
-Phone number : 0749082057
+✉️ Email : azzedinehatem@gmail.com
+
+📞 Téléphone : 07 49 08 20 57
+
+Merci pour ta visite, et bonne exploration de mes projets !
