@@ -1,18 +1,16 @@
-👋 Bienvenue sur mon GitHub !
-Salut à toutes et à tous !
-Je suis Azzedine Hatem, étudiant en informatique, passionné par le développement full-stack et de plus en plus curieux du monde de l'intelligence artificielle.
+👋 Welcome to my GitHub!
+Hi everyone! I’m Azzedine Hatem, a computer science student passionate about full-stack development, increasingly fascinated by the world of artificial intelligence, and eager to explore how it can shape the future of technology.
 
-Sur ce profil, tu trouveras :
+On this profile, you’ll find:
 
-💻 Des projets réalisés dans le cadre de mes études universitaires
+💻 Projects developed as part of my university studies
+🚀 Personal projects I work on out of passion, alongside my academic journey
+☁️ Experiments and learning experiences related to cloud computing, aiming to build scalable and modern applications
+🤖 Explorations in AI and machine learning, where I love experimenting, learning, and applying new concepts
 
-🚀 Des projets personnels que je développe par passion, en parallèle de mon cursus
+I’m always open to discussions, collaborations, or simply exchanging ideas about tech!
 
-Je suis toujours ouvert aux échanges, collaborations ou simplement à discuter autour de la tech !
-📫 Me contacter :
+📫 Contact me:
+✉️ Email: azzedinehatem@gmail.com
 
-✉️ Email : azzedinehatem@gmail.com
-
-📞 Téléphone : 07 49 08 20 57
-
-Merci pour ta visite, et bonne exploration de mes projets !
+Thanks for stopping by, and enjoy exploring my projects! 🚀
